@@ -1,0 +1,69 @@
+[de-de]
+name = "GitBucket"
+auth = "GitBucket"
+descript = "GitBucket ist eine Open-Source-Git-Plattform, die für einfaches Code-Hosting und Zusammenarbeit entwickelt wurde. Sie wurde mit Scala entwickelt und bietet ähnliche Funktionen wie GitHub, darunter Repository-Verwaltung, Pull-Requests, Issue-Tracking und Tools für die Teamzusammenarbeit. GitBucket unterstützt die Git-Integration und kann auf privaten Servern selbst gehostet werden, was es ideal für Organisationen macht, die mehr Kontrolle über ihre Projekte und Daten wünschen."
+
+[en-us]
+name = "GitBucket"
+auth = "GitBucket"
+descript = "GitBucket is an open-source Git platform designed for easy code hosting and collaboration. Built with Scala, it provides features similar to GitHub, including repository management, pull requests, issue tracking, and team collaboration tools. GitBucket supports Git integration and can be self-hosted on private servers, making it suitable for organizations that want greater control over their projects and data."
+
+[es-es]
+name = "GitBucket"
+auth = "GitBucket"
+descript = "GitBucket es una plataforma Git de código abierto diseñada para alojar código y colaborar fácilmente. Desarrollada en Scala, ofrece funciones similares a las de GitHub, como gestión de repositorios, solicitudes de extracción (pull requests), seguimiento de incidencias y herramientas de colaboración en equipo. GitBucket admite la integración con Git y se puede alojar en servidores privados, lo que la hace idónea para organizaciones que desean un mayor control sobre sus proyectos y datos."
+
+[fr-fr]
+name = "GitBucket"
+auth = "GitBucket"
+descript = "GitBucket est une plateforme Git open source conçue pour faciliter l'hébergement de code et la collaboration. Développée en Scala, elle offre des fonctionnalités similaires à GitHub, notamment la gestion de dépôts, les pull requests, le suivi des tickets et des outils de travail en équipe. GitBucket prend en charge l'intégration de Git et peut être auto-hébergé sur des serveurs privés, ce qui convient parfaitement aux organisations souhaitant un plus grand contrôle sur leurs projets et leurs données."
+
+[hu-hu]
+name = "GitBucket"
+auth = "GitBucket"
+descript = "A GitBucket egy nyílt forráskódú Git platform, amelyet az egyszerű kódtárolásra és együttműködésre terveztek. A Scalában épült rendszer a GitHubhoz hasonló funkciókat kínál, beleértve a tárhelykezelést, a pull requesteket, az hibakövetést (issue tracking) és a csapategyüttműködési eszközöket. A GitBucket támogatja a Git integrációt, és saját privát szervereken is hosztolható, így ideális olyan szervezetek számára, amelyek nagyobb ellenőrzést szeretnének a projektjeik és adataik felett."
+
+[it-it]
+name = "GitBucket"
+auth = "GitBucket"
+descript = "GitBucket è una piattaforma Git open source progettata per facilitare l'hosting del codice e la collaborazione. Sviluppata in Scala, offre funzionalità simili a GitHub, tra cui la gestione dei repository, le pull request, il tracciamento dei problemi (issue tracking) e strumenti di collaborazione di squadra. GitBucket supporta l'integrazione con Git e può essere self-hosted su server privati, rendendola adatta alle organizzazioni che desiderano un maggiore controllo sui propri progetti e dati."
+
+[ja-jp]
+name = "GitBucket"
+auth = "GitBucket"
+descript = "GitBucket は、簡単なコードホスティングとコラボレーションのために設計されたオープンソースの Git プラットフォームです。Scala で構築されており、リポジトリ管理、プルリクエスト、問題追跡（Issue）、チームコラボレーションツールなど、GitHub に類似した機能を提供します。GitBucket は Git 統合をサポートし、プライベートサーバーでセルフホストできるため、プロジェクトやデータをより詳細に管理したい組織に最適です。"
+
+[ko-kr]
+name = "GitBucket"
+auth = "GitBucket"
+descript = "GitBucket은 손쉬운 코드 호스팅과 협업을 위해 설계된 오픈 소스 Git 플랫폼입니다. Scala로 작성되었으며 저장소 관리, 풀 리퀘스트, 이슈 트래킹, 팀 협업 도구 등 GitHub와 유사한 기능을 제공합니다. GitBucket은 Git 연동을 지원하며 자체 사설 서버에 호스팅할 수 있어 프로젝트와 데이터에 대한 더 높은 제어권을 원하는 조직에 적합합니다."
+
+[pl-pl]
+name = "GitBucket"
+auth = "GitBucket"
+descript = "GitBucket to otwartoźródłowa platforma Git zaprojektowana z myślą o łatwym hostowaniu kodu i współpracy. Zbudowana w języku Scala, oferuje funkcje podobne do GitHub, w tym zarządzanie repozytoriami, pull requesty, śledzenie zgłoszeń (issues) oraz narzędzia do współpracy zespołowej. GitBucket wspiera integrację z Git i może być hostowany na prywatnych serwerach, co czyni go idealnym rozwiązaniem dla organizacji wymagających większej kontroli nad swoimi projektami i danymi."
+
+[pt-pt]
+name = "GitBucket"
+auth = "GitBucket"
+descript = "O GitBucket é uma plataforma Git de código aberto concebida para facilitar o alojamento de código e a colaboração. Desenvolvida em Scala, oferece funcionalidades semelhantes às do GitHub, incluindo a gestão de repositórios, pull requests, seguimento de problemas (issues) e ferramentas de colaboração em equipa. O GitBucket suporta a integração com o Git e pode ser alojado nos seus próprios servidores privados, sendo ideal para organizações que pretendem maior controlo sobre os seus projetos e dados."
+
+[ru-ru]
+name = "GitBucket"
+auth = "GitBucket"
+descript = "GitBucket — это платформа Git с открытым исходным кодом, созданная для удобного хостинга кода и совместной работы. Написанная на Scala, она предоставляет возможности, аналогичные GitHub, включая управление репозиториями, pull-запросы, отслеживание ошибок (issues) и инструменты для командной работы. GitBucket поддерживает интеграцию с Git и может размещаться на собственных приватных серверах, что делает его отличным выбором для организаций, стремящихся к полному контролю над своими проектами и данными."
+
+[tr-tr]
+name = "GitBucket"
+auth = "GitBucket"
+descript = "GitBucket, kolay kod barındırma ve iş birliği için tasarlanmış açık kaynaklı bir Git platformudur. Scala ile geliştirilen platform; depo yönetimi, pull request'ler, sorun takibi (issues) ve takım çalışması araçları dahil olmak üzere GitHub'a benzer özellikler sunar. GitBucket, Git entegrasyonunu destekler ve özel sunucularda barındırılabilir; bu da projeleri ve verileri üzerinde daha fazla kontrol sahibi olmak isteyen kuruluşlar için idealdir."
+
+[zh-cn]
+name = "GitBucket"
+auth = "GitBucket"
+descript = "GitBucket 是一个开源的 Git 平台，旨在简化代码托管与协作。它采用 Scala 开发，提供类似于 GitHub 的功能，包括仓库管理、Pull Request、Issue 追踪以及团队协作工具。GitBucket 支持 Git 集成，并可在私有服务器上进行自主托管，非常适合希望对项目和数据拥有更多掌控权的组织。"
+
+[zh-hk]
+name = "GitBucket"
+auth = "GitBucket"
+descript = "GitBucket 是一個開源的 Git 平台，旨在簡化代碼託管與協作。它採用 Scala 開發，提供類似於 GitHub 的功能，包括儲存庫管理、Pull Request、Issue 追蹤以及團隊協作工具。GitBucket 支援 Git 整合，並可以在私有伺服器上進行自主託管，非常適合希望對項目和數據擁有更多掌控權的組織。"
